@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 233 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-8.52144,-1390.27)">
+        <g transform="matrix(1,0,0,1,8.76072,1312.71)">
+            <g id="logo" transform="matrix(0.187565,0,0,0.187565,-203.978,-65.4075)">
+                <g transform="matrix(0.808719,0,0,0.808719,319.993,164.61)">
+                    <rect x="947.467" y="738.965" width="1532.61" height="1095.53" style="fill:rgb(135,206,235);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-22.0745,1.36384)">
+                    <g>
+                        <g transform="matrix(1,0,0,1,6.14589,-38.5217)">
+                            <path d="M1509.72,1209.83L1220.49,1079.09" style="fill:none;stroke:rgb(232,255,0);stroke-width:22.21px;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,0,-15.9944)">
+                            <path d="M1753.94,1049.83L1753.94,827.013" style="fill:none;stroke:rgb(232,255,0);stroke-width:22.21px;"/>
+                        </g>
+                        <g transform="matrix(1.26463,0.0121725,-0.0153948,0.999926,-507.016,-25.9612)">
+                            <path d="M2012.54,1325.22L2219.24,1322.71" style="fill:none;stroke:rgb(232,255,0);stroke-width:19.54px;"/>
+                        </g>
+                        <g transform="matrix(1,-1.52656e-16,-2.77556e-16,1,24.1759,-3.93861)">
+                            <path d="M1975.68,1187.31L2197.59,1049.83" style="fill:none;stroke:rgb(232,255,0);stroke-width:22.21px;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,10.6629,-15.9944)">
+                            <path d="M1903.41,1099.4C1909.76,1089.84 2047.95,893.36 2047.95,893.36" style="fill:rgb(230,255,0);stroke:rgb(232,255,0);stroke-width:22.21px;"/>
+                        </g>
+                        <g transform="matrix(0.9597,-0.0580879,-0.0580879,0.916273,123.905,167.932)">
+                            <path d="M1622.55,1098.46L1434.23,827.013" style="fill:none;stroke:rgb(232,255,0);stroke-width:25.24px;"/>
+                        </g>
+                        <g transform="matrix(1.05563,0.0473768,-0.0513205,0.998884,-42.5758,-61.7502)">
+                            <path d="M1509.72,1325.22L1220.49,1342.22" style="fill:none;stroke:rgb(232,255,0);stroke-width:21.66px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,0.978845,441.65,734.505)">
+                        <path d="M1518.46,683.46L1106.11,683.46C1085.21,648.888 1074.21,609.67 1074.21,569.75C1074.21,444.233 1180.89,342.33 1312.29,342.33C1443.68,342.33 1550.36,444.233 1550.36,569.75C1550.36,609.67 1539.36,648.888 1518.46,683.46Z" style="fill:rgb(217,255,0);"/>
+                    </g>
+                    <g id="face">
+                        <g transform="matrix(0.878464,0,0,0.847788,283.626,153.194)">
+                            <circle cx="1565.39" cy="1280.85" r="15.219"/>
+                        </g>
+                        <g transform="matrix(0.878464,0,0,0.847788,447.254,154.017)">
+                            <circle cx="1565.39" cy="1280.85" r="15.219"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,0,-28)">
+                            <path d="M1632.75,1358.06C1632.75,1358.06 1747.69,1458.19 1862.02,1358.06" style="fill:none;stroke:black;stroke-width:22.21px;"/>
+                        </g>
+                    </g>
+                </g>
+                <g id="smile-and-speak" serif:id="smile and speak" transform="matrix(1,0,0,1,-41.1934,-212.043)">
+                    <g id="title" transform="matrix(1,0,0,1,-24.7199,10.0556)">
+                        <g transform="matrix(3.3123,0,0,3.3123,-1538.4,-2476.73)">
+                            <g transform="matrix(50.2999,0,0,50.2999,1176.86,1090.85)">
+                            </g>
+                            <text x="1023.26px" y="1090.85px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:50.3px;fill:rgb(252,252,252);stroke:black;stroke-width:1.61px;stroke-linecap:butt;stroke-miterlimit:2;">Speak</text>
+                        </g>
+                        <g transform="matrix(3.3123,0,0,3.3123,-2215.78,-2477.57)">
+                            <g transform="matrix(50.2999,0,0,50.2999,1158.46,1090.85)">
+                            </g>
+                            <text x="1023.26px" y="1090.85px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:50.3px;fill:rgb(252,252,252);stroke:black;stroke-width:1.61px;stroke-linecap:butt;stroke-miterlimit:2;">Smile</text>
+                        </g>
+                        <g transform="matrix(5.33147,0,0,5.33147,-7152.59,-9641.78)">
+                            <g transform="matrix(29.1667,0,0,29.1667,1680.37,2021.48)">
+                            </g>
+                            <text x="1660.92px" y="2021.48px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;fill:rgb(255,89,0);stroke:white;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">&amp;</text>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,17.8513,194.817)">
+                        <ellipse cx="1546.32" cy="935.824" rx="4.418" ry="3.93" style="fill:white;"/>
+                    </g>
+                </g>
+                <g transform="matrix(5.33147,0,0,5.33147,920.541,-6686.05)">
+                    <g transform="matrix(20.8333,0,0,20.8333,233.163,1532.49)">
+                    </g>
+                    <text x="60.271px" y="1532.49px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20.833px;fill:rgb(48,0,255);">English <tspan x="140.522px 155.567px " y="1532.49px 1532.49px ">Ac</tspan>ademy</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

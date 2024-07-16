@@ -54,7 +54,7 @@ body {
   width: 50%;
 }
 .top-title{
-  color: blue;
+  color: var(--green2);
   
 }
 

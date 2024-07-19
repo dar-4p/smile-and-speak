@@ -145,6 +145,7 @@ body {
   }
 
   .nav {
+    /* position:sticky; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -158,10 +159,7 @@ body {
     color: #fff;
   }
  
-  .nav a.active {
-    background-color: #04AA6D;
-    color: white;
-  }
+  
   
 
   

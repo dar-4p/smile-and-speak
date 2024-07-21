@@ -148,7 +148,11 @@ body {
   .nice-to-meet-you { 
     width: 100%; 
   }
-
+  .top-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
   .nav {
     /* position:sticky; */
     display: flex;
@@ -162,6 +166,11 @@ body {
 
   .nav a{
     color: #fff;
+  }
+
+  .para-style{
+    padding: 1em;
+    color: #777777;
   }
 
   .ai-art{

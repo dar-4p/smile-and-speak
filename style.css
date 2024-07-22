@@ -48,6 +48,7 @@ h1,h3 {
 }
 h2 {
   font-size: 1.6em;
+  text-align: center;
 }
 
 h4 {
@@ -107,11 +108,11 @@ body {
 
 
 
-/* Mobile Styles */
-@media only screen and (max-width: 767px) {
-  /* Mobile specific styles here */
+/* starting from mobile so these are all base styles  */
+
+  
   body { font-size: 14px; 
-         background-color: var(--lightpurple); 
+         background-color: #fff; 
   }
 
   #container{
@@ -123,6 +124,7 @@ body {
   .top-title{
     font-size: 40px;
     color:var(--blue1);
+    padding: 5px 0;
   }
   .top-title_ea{
     font-size: 25px;
@@ -140,6 +142,7 @@ body {
     padding: 10px;
   }
 
+  /* all images and containers  */
   .responsive{
     width: 100%;
   height: auto;
@@ -148,11 +151,14 @@ body {
   .nice-to-meet-you { 
     width: 100%; 
   }
+
   .top-title {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
   }
+
   .nav {
     /* position:sticky; */
     display: flex;
@@ -185,7 +191,7 @@ body {
   
 
   
-}
+/* }  */
 
 /* Tablet Styles (optional) */
 @media only screen and (min-width: 768px) and (max-width: 991px) {

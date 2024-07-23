@@ -287,6 +287,22 @@ body {
   
 }
 
+@media only screen and (min-width: 1200px) and (max-width: 2000px) {
+  /* Tablet specific styles here */
+  body { font-size: 16px; 
+         background-color: var(--lightpurple);
+  }
+  .image { width: 70%; }
+
+  #container{
+    width: 70%;
+    background-color: #fff;
+    height: auto;
+  }
+
+  
+}
+
 
 
 

@@ -215,9 +215,20 @@ body {
   }
 
   .para-style{
-    padding: 1em;
+    padding: .2em 1em;
     color: #777777;
   }
+
+  .my-skills_li{
+    margin-left: 60px;
+  }
+
+  .my-skills_li img{
+    padding: 10px 20px;
+  }
+
+
+  
 
   .ai-art{
     width: 100%;

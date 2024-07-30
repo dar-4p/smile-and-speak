@@ -311,10 +311,12 @@ body {
 
   }
 
-  
-  
-
-  
+  /* a few queries for mobile  */
+  @media only screen and (min-width: 400px) and (max-width: 700px) {
+    ai-art .hide {
+      display: none;
+    }
+  }
 
 
 /* Tablet Styles (optional) */

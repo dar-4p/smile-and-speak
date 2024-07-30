@@ -247,6 +247,11 @@ body {
     /* margin: 0 auto; */
   }
 
+  /* hide 2 pics on mobile  */
+  .hide {
+    display: none;
+  }
+
   .sc-link{
     /* button effects  */
     transition: all 0.5s;

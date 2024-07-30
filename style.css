@@ -191,6 +191,10 @@ body {
     text-align: center;
   }
 
+  .my-skills .my-skills_li{
+   margin-left: 90px;
+  }
+
   
 
   /* to return to top  */

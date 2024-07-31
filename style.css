@@ -350,7 +350,7 @@ body {
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
   /* Tablet specific styles here */
   body { font-size: 16px; 
-         background-color: var(--lightpurple);
+         background-color: var(--white);
   }
   .image { width: 70%; }
 
@@ -378,7 +378,7 @@ body {
 @media only screen and (min-width: 1025px) and (max-width: 2000px) {
   /* Tablet specific styles here */
   body { font-size: 16px; 
-         background-color: var(--pink);
+         background-color: var(--white);
   }
   .image { width: 80%; }
 
@@ -391,7 +391,7 @@ body {
   }
 
   #container{
-    width: 70%;
+    width: 75%;
     background-color: #fff;
     height: auto;
   }

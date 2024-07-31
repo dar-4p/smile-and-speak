@@ -342,6 +342,7 @@ body {
       justify-content: center;
     }
 
+
   }
 
 
@@ -362,6 +363,14 @@ body {
   .my-skills .my-skills_li{
     margin-left: 90px;
    }
+
+   .classpic{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+  }
 
   
 }

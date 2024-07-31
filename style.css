@@ -248,7 +248,7 @@ body {
     flex-direction:row;
     flex-wrap: wrap;
     align-items:center;
-    justify-content:center;
+    justify-content:space-around;
     /* padding-left: 5px; */
     /* margin: 0 auto; */
   }
@@ -278,6 +278,14 @@ body {
   .sc-link a:hover{
     color: var(--green2);
     transition: all 1s;
+  }
+
+  /* classes  */
+  .classpic{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
   }
 
 

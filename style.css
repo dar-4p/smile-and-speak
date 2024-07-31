@@ -246,7 +246,7 @@ body {
     flex-direction:row;
     flex-wrap: wrap;
     align-items:center;
-    justify-content:center;
+    justify-content:space-evenly;
   }
 
   /* hide 2 pics on mobile  */
@@ -330,7 +330,7 @@ body {
   }
 
   /* a few queries for mobile  */
-  @media only screen and (min-width: 400px) and (max-width: 700px) {
+  @media only screen and (min-width: 400px) and (max-width: 768px) {
     ai-art .hide {
       display: none;
     }
@@ -347,7 +347,7 @@ body {
 
 
 /* Tablet Styles (optional) */
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
   /* Tablet specific styles here */
   body { font-size: 16px; 
          background-color: var(--lightpurple);
@@ -369,18 +369,26 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
   }
 
   
 }
 
-@media only screen and (min-width: 1920px) and (max-width: 2700px) {
+@media only screen and (min-width: 1025px) and (max-width: 2000px) {
   /* Tablet specific styles here */
   body { font-size: 16px; 
          background-color: var(--pink);
   }
   .image { width: 70%; }
+
+  .classpic{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+  }
 
   #container{
     width: 70%;

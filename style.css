@@ -191,9 +191,7 @@ body {
     text-align: center;
   }
 
-  .my-skills .my-skills_li{
-   margin-left: 90px;
-  }
+  
 
   
 
@@ -248,9 +246,7 @@ body {
     flex-direction:row;
     flex-wrap: wrap;
     align-items:center;
-    justify-content:space-around;
-    /* padding-left: 5px; */
-    /* margin: 0 auto; */
+    justify-content:center;
   }
 
   /* hide 2 pics on mobile  */
@@ -284,8 +280,8 @@ body {
   .classpic{
     display: flex;
     align-items: center;
-    flex-direction: row;
-    justify-content: space-around;
+    flex-direction: column;
+    justify-content: center;
   }
 
 
@@ -361,6 +357,10 @@ body {
     background-color: #fff;
     height: auto;
   }
+
+  .my-skills .my-skills_li{
+    margin-left: 90px;
+   }
 
   
 }

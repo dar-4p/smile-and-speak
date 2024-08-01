@@ -208,7 +208,7 @@ body {
     width: 50%;
     text-align: center;
     font-size: 1.6em;
-    margin: 10px auto;
+    margin: 40px auto;
 
     
   }
@@ -285,6 +285,10 @@ body {
     margin-bottom: 30px;
   }
 
+  .about_heading{
+    --animation-duration: 3s;
+  }
+
   /* classes  */
   .classpic{
     display: flex;
@@ -293,6 +297,8 @@ body {
     flex-direction: row;
     justify-content: center;
   }
+
+
 
 
   /* contact  */
@@ -304,8 +310,10 @@ body {
     justify-content: center;
   }
 
-  .contact-me {
+  .section-title {
     color: var(--green2);
+    font-size: 50px;
+    
   }
 
   .contact-me-by{

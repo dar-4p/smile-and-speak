@@ -41,7 +41,7 @@ h1,h2,h3,h4{
   color: var(--blue2);
 }
 
-p,a,li {
+p,li {
   color:var(--green2);
   font-size: 16px;
 }
@@ -204,6 +204,7 @@ body {
   /* to return to top  */
   .button{
     background: none;
+    color: var(--blue1);
     border: 2px solid var(--blue2);
     border-radius: 20px;
     text-transform: uppercase;
@@ -235,7 +236,7 @@ body {
   }
 
   .para-style{
-    padding: .2em 1em;
+    padding: .5em 1em 2em 1em;
     color: #777777;
   }
 
@@ -298,7 +299,7 @@ body {
     flex-wrap: wrap;
     align-items: center;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
   }
 
 

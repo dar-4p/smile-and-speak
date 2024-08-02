@@ -206,12 +206,12 @@ body {
     background: none;
     color: var(--blue1);
     border: 2px solid var(--blue2);
-    border-radius: 20px;
+    border-radius: 8px;
     text-transform: uppercase;
     box-shadow:1px 2px 3px rgba(0,0,0,0.6) ;
     display: block; 
     padding: 5px 3px;
-    width: 20%;
+    width: 35%;
     text-align: center;
     font-size: 20px;
     margin-left: 20px;

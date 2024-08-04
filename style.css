@@ -379,6 +379,12 @@ body {
     span{
       padding-right: 7px;
     }
+
+    .border{
+      text-align: center;
+      margin: 40px auto;
+      width: 80%;
+    }
   
     .skill-list {
       color: var(--blue2);

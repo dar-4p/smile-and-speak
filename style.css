@@ -199,6 +199,11 @@ body {
     margin-bottom: 3px;
   }
 
+  .border{
+    text-align: center;
+    margin: 40px 0;
+  }
+
   
 
   /* to return to top  */

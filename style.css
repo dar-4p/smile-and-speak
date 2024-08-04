@@ -5,7 +5,7 @@
   --orange: #E1B941;
   --pink: #E141B9;
   --gray: #454545;
-  --lightgray: #777777;
+  --lightgray: #d7d7d7;
   --red: #FF0038;
   --lightpurple: #94B0DA;
   --white: #fff;
@@ -322,6 +322,8 @@ body {
   .section-title {
     color: var(--green2);
     font-size: 50px;
+    background-color: var(--black);
+    padding: 20px;
     
   }
 

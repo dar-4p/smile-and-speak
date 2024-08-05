@@ -335,7 +335,7 @@ body {
   }
 
   .contact{
-    background: linear-gradient(to right, var(--green2), var(--orange), var(--green2));
+    background: linear-gradient(to left, rgba(231, 246, 63, 0.5),rgba(62, 74, 238, 0.2));
   }
 
   .contact-me-by{
@@ -356,6 +356,14 @@ body {
 
   .mail a{
     font-size: 1.4em;
+  }
+
+  .mail a:hover{
+    color: var(--white);
+    background-color: #000;
+    transition: all .8s;
+    padding: 20px;
+    border-radius: 15px;
   }
 
   footer{

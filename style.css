@@ -337,6 +337,29 @@ body {
     color: var(--gray);
     text-align: center;
   }
+
+  /* new code  */
+  .section-title {
+    color: var(--white);
+    font-size: 50px;
+    border-radius: 10px;
+    padding: 20px;
+    background: linear-gradient(to right, var(--blue1), var(--black), var(--green2));
+    clip-path: polygon(0 0, 100% 20%, 100% 100%, 0 100%);
+  }
+
+  .contact{
+    background: linear-gradient(to right, var(--green2), var(--orange), var(--green2));
+  }
+
+  .contact-me-by{
+    color: var(--gray);
+    text-align: center;
+    background: linear-gradient(to right, var(--green2), var(--orange), var(--green2));
+    clip-path: polygon(50% 0%, 74% 50%, 50% 100%, 18% 48%);
+  }
+
+
  
   .mail{
     color: #454545;

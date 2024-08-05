@@ -103,9 +103,7 @@ body {
   color: var(--blue2);
   /* height: 700px; */
   width: 100%;
-  
-
-}
+ }
 .site-logo {
   width: 50%;
 }
@@ -124,6 +122,7 @@ body {
     width: 100%;
     background-color:var(--blue2);
     font-size: 30px;
+    margin-bottom: 10px;
   }
 
   .nav a {
@@ -156,12 +155,15 @@ body {
 .top-title{
     font-size: 40px;
     color:var(--blue1);
+    margin-top: 20px;
   }
 
   .top-title_ea{
     font-size: 25px;
     color: var(--green2);
-    /* margin-top: 5px; */
+    display: block;
+    margin-top: 10px;
+    
   }
 
 

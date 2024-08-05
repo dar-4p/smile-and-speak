@@ -353,10 +353,10 @@ body {
   }
 
   .contact-me-by{
-    color: var(--gray);
+    color: var(--blue1);
     text-align: center;
-    background: linear-gradient(to right, var(--green2), var(--orange), var(--green2));
-    clip-path: polygon(50% 0%, 74% 50%, 50% 100%, 18% 48%);
+    background: var(--white);
+    /* clip-path: polygon(50% 0%, 74% 50%, 50% 100%, 18% 48%); */
   }
 
 

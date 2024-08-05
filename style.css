@@ -326,24 +326,10 @@ body {
   }
 
   .section-title {
-    color: var(--green2);
-    font-size: 50px;
-    background-color: var(--black);
-    padding: 20px;
-    
-  }
-
-  .contact-me-by{
-    color: var(--gray);
-    text-align: center;
-  }
-
-  /* new code  */
-  .section-title {
     color: var(--white);
     font-size: 50px;
     border-radius: 10px;
-    padding: 20px;
+    padding: 25px;
     background: linear-gradient(to right, var(--blue1), var(--black), var(--green2));
     clip-path: polygon(0 0, 100% 20%, 100% 100%, 0 100%);
   }

@@ -401,6 +401,9 @@ body {
     color: var(--blue1);
     text-align: center;
     background: var(--white);
+    display: block;
+    width: 100%;
+    padding: 10px 0;
     /* clip-path: polygon(50% 0%, 74% 50%, 50% 100%, 18% 48%); */
   }
 

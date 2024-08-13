@@ -11,6 +11,7 @@
   --lightpurple: #b6cff4;
   --white: #fff;
   --black: #000;
+  --grey: #c6c6c6;
 
 }
 
@@ -355,15 +356,17 @@ body {
     display: block;
     margin: 20px auto;
     padding: 20px;
-    outline: none;
+    outline-color: var(--blue1);
     border-radius: 5px;
-    background-color: var(--white);
+    background-color: var(--lightgray);
+    
     
   }
 
   .sc-link a {
     font-size: 20px;
-    color: var(--black);
+    color: var(--white);
+    text-shadow: 3px 3px 3px var(--blue2);
     padding: 20px;
     margin-right: 5px;
    

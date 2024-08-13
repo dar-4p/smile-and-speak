@@ -220,7 +220,14 @@ body {
     margin: 60px 0;
   }
 
-  
+  .section-title {
+    color: var(--white);
+    font-size: 50px;
+    border-radius: 10px;
+    padding: 25px;
+    background: linear-gradient(to right, var(--blue1), var(--black), var(--green2));
+    clip-path: polygon(0 0, 100% 20%, 100% 100%, 0 100%);
+  }
 
   /* to return to top  */
   .button{
@@ -265,41 +272,9 @@ body {
     padding-left: 15px;
   }
 
-
   
 
-  .ai-art{
-    /* height: 400px;  */
-    display: flex;
-    flex-direction:row;
-    flex-wrap: wrap;
-    align-items:center;
-    justify-content:space-evenly;
-  }
-
   
-
-  .sc-link{
-    /* button effects  */
-    
-    outline: none;
-    border-radius: 5px;
-    background-color: var(--blue1);
-    
-  }
-
-  .sc-link a {
-    font-size: 30px;
-    color: var(--white);
-    padding: 10px;
-   
-    
-  }
-
-  .sc-link a:hover{
-    color: var(--green2);
-    transition: all 1s;
-  }
 
   /* about me  */
   .center-vid{
@@ -372,6 +347,35 @@ body {
     margin-bottom: 10px;
   }
 
+  /* hobbies and other stuff  */
+
+  .sc-link{
+    /* button effects  */
+    display: block;
+    padding: 20 auto;
+    outline: none;
+    border-radius: 5px;
+    background-color: var(--blue1);
+    
+  }
+
+  .sc-link a {
+    font-size: 30px;
+    color: var(--white);
+    padding: 10px;
+   
+    
+  }
+
+  .sc-link a:hover{
+    color: var(--green2);
+    transition: all 1s;
+  }
+  .hobbies{
+    font-size: 30px;
+    line-height: 1.1em;
+  }
+
 
 
 
@@ -384,15 +388,7 @@ body {
     justify-content: center;
   }
 
-  .section-title {
-    color: var(--white);
-    font-size: 50px;
-    border-radius: 10px;
-    padding: 25px;
-    background: linear-gradient(to right, var(--blue1), var(--black), var(--green2));
-    clip-path: polygon(0 0, 100% 20%, 100% 100%, 0 100%);
-  }
-
+  
   .contact{
     background: linear-gradient(to left, rgba(231, 246, 63, 0.5),rgba(62, 74, 238, 0.2));
   }

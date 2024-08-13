@@ -359,6 +359,7 @@ body {
     outline-color: var(--blue1);
     border-radius: 5px;
     background-color: var(--lightgray);
+    outline: var(--blue1);
     
     
   }
@@ -376,7 +377,7 @@ body {
   .sc-link a:hover{
     color: var(--green2);
     transition: all 1s;
-    font-size: 25px;
+    font-size: 22px;
 
   }
 

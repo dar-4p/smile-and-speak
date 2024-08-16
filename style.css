@@ -500,6 +500,37 @@ body {
       margin-left: 20px;
       margin: 10px 0 10px 10px;
     }
+     /* i have these same sc queries in the main but there was no outline on mobile so I put them here as well  */
+     
+    .sc-link{
+      /* button effects  */
+      display: block;
+      margin: 20px auto;
+      padding: 20px;
+      outline-color: var(--blue1);
+      border-radius: 5px;
+      background-color: var(--white);
+      /* outline: var(--blue1); */
+      
+      
+    }
+  
+    .sc-link a {
+      font-size: 20px;
+      color: var(--red);
+      /* text-shadow: 3px 3px 3px var(--blue2); */
+      padding: 20px;
+      margin-right: 5px;
+     
+      
+    }
+  
+    .sc-link a:hover{
+      color: var(--green2);
+      transition: all 1s;
+      font-size: 22px;
+  
+    }
 
     .footer{
       width: 100%;

@@ -351,6 +351,13 @@ body {
 
   /* hobbies and other stuff  */
 
+  .music-notes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+
   .sc-link{
     /* button effects  */
     display: block;

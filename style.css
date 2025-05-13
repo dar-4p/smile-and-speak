@@ -165,13 +165,13 @@ body {
   
 
 .top-title{
-    font-size: 40px;
+    font-size: 30px;
     color:var(--blue1);
     margin-top: 20px;
   }
 
   .top-title_ea{
-    font-size: 25px;
+    font-size: 15px;
     color: var(--green2);
     display: block;
     margin-top: 10px;

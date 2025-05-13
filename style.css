@@ -99,9 +99,9 @@ body {
 
 .top {
   display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction:column;
+  align-items:center;
+  justify-content:space-between;
+  flex-direction:row;
   color: var(--blue2);
   /* height: 700px; */
   width: 100%;

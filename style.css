@@ -168,19 +168,21 @@ body {
 
 .top-title{
     font-size: 30px;
-    color:var(--blue1);
+    color:var(--green2);
     margin-top: 20px;
     text-align: center;
   }
   
-  /* .top-title_ea{
+  .message{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items:flex-start;
+    line-height: 50px;
+    font-style: italic;
+    font-size: 40px;
     
-    font-size: 15px;
-    color: var(--green2);
-    display: block;
-    margin-top: 10px;
-    
-  } */
+  }
 
 
   .intro h3{

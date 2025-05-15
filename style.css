@@ -138,6 +138,10 @@ body {
     transition: all .5s;
   }
 
+  .about_heading{
+    font-size: 10px;
+  }
+
   .about-classes{
     display: flex;
     flex-direction: column;
@@ -219,6 +223,7 @@ body {
 
   .my-skills{
     margin-top: 25px;
+    /* text-align: center; */
   }
 
   .skill-list {

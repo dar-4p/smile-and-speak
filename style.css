@@ -130,7 +130,7 @@ body {
   .nav a {
     color: var(--white);
     font-size: 22px;
-    margin: 20px;
+    margin: 10px;
   }
 
   .nav a:hover{
@@ -142,6 +142,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content:space-between;
+    align-items:center;
+    margin: 0 auto;
     
   }
 
